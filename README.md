@@ -1,191 +1,294 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Khyati%20Agrawal&fontSize=65&fontColor=fff&fontAlignY=40&desc=Building%20Beautiful%20Things%20with%20Code%20%E2%9C%A8&descSize=18&descAlignY=60&animation=twinkling" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=FF6BB5&center=true&vCenter=true&width=700&lines=B.Tech+Student+%7C+AI+Enthusiast+%F0%9F%A4%96;Backend+Developer+%7C+Creative+Coder+%F0%9F%8E%A8;DSA+Learner+%7C+Problem+Solver+%F0%9F%92%AA;Turning+Coffee+%E2%98%95+%26+Ideas+into+Projects+%E2%9C%A8;Consistency+is+Beauty.+%F0%9F%92%96)](https://github.com/khyatiagrawal-2025)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=khyatiagrawal-2025&color=FF6BB5&style=flat-square&label=Profile+Views)](https://github.com/khyatiagrawal-2025)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/khyatiagrawal-2025?label=Followers&style=flat-square&color=FF6BB5&labelColor=1f1f2e)](https://github.com/khyatiagrawal-2025?tab=followers)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/khyatiagrawal-2025?label=Total%20Stars&style=flat-square&color=FF6BB5&labelColor=1f1f2e)](https://github.com/khyatiagrawal-2025)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=200&section=header&text=Khyati%20Agrawal&fontSize=52&fontColor=fff&fontAlignY=38&desc=Electronics%20%26%20CS%20Engineering%20Student%20%C2%B7%20Builder%20%C2%B7%20GSSoC%20Contributor&descSize=15&descAlignY=60&animation=twinkling" />
 
 </div>
 
+<br />
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=B.Tech+Electronics+%26+CS+%7C+Uttar+Pradesh+%F0%9F%87%AE%F0%9F%87%B3;DSA+in+Java+%C2%B7+Full+Stack+%C2%B7+Generative+AI;GSSoC+Open+Source+Contributor+%F0%9F%8C%B8;Building+things+that+matter%2C+one+commit+at+a+time.)](https://github.com/khyatiagrawal-2025)
+
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/khyatiagrawal-2025">
+    <img src="https://komarev.com/ghpvc/?username=khyatiagrawal-2025&color=c084fc&style=flat-square&label=Profile+Views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/khyatiagrawal-2025?tab=followers">
+    <img src="https://img.shields.io/github/followers/khyatiagrawal-2025?label=Followers&style=flat-square&color=c084fc&labelColor=1f1f2e" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/khyati-agrawal-1840ba377/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-c084fc?style=flat-square&logo=linkedin&logoColor=white&labelColor=1f1f2e" />
+  </a>
+</div>
+
+<br />
+
 ---
 
-<img align="right" alt="coding gif" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+## ✦ About Me
 
-## 🌸 Hey, I'm Khyati!
+I'm a **B.Tech student** in Electronics & Computer Science Engineering, building at the intersection of full stack development and generative AI. I started with DSA in Java and kept going — into backend systems with Django, modern frontends with TypeScript and React, and AI-integrated applications that actually solve problems.
+
+I'm a **GSSoC (GirlScript Summer of Code) open source contributor**, earned GitHub's **Pull Shark** and **Quickdraw** achievements through real contribution activity, and I'm consistently working on projects that push beyond tutorials.
+
+I believe the best code is code that ships — and then keeps improving.
 
 ```kotlin
 val khyati = Developer(
-    name     = "Khyati Agrawal",
-    role     = "B.Tech Student · AI Enthusiast",
-    loves    = listOf("Clean Code", "AI Magic", "Creative UI"),
-    learning = listOf("DSA", "System Design", "Gen AI"),
-    motto    = "Consistency is beauty. 💖"
+    location  = "Uttar Pradesh, India 🇮🇳",
+    focus     = listOf("Full Stack Dev", "DSA (Java)", "Generative AI"),
+    currently = "Building AI-powered applications & grinding algorithms",
+    openTo    = "Internships · Open Source · Collaborations"
 )
 ```
 
-- 🎓 **B.Tech** student building real-world products
-- 🤖 Obsessed with **Generative AI** & intelligent systems
-- 💻 **Backend Developer** who solves problems elegantly
-- 📚 **DSA** grinder — Java, every single day
-- 🎨 Believer that **creativity + logic = magic**
-- ✨ Every bug teaches me something. Every commit matters.
-
-<br clear="right"/>
+<br />
 
 ---
 
-## 💅 Tech Arsenal
+## ✦ Tech Stack
 
-<div align="center">
+**Languages**
 
-**— Languages —**
+![Java](https://img.shields.io/badge/Java-1f1f2e?style=flat-square&logo=openjdk&logoColor=c084fc)
+![Python](https://img.shields.io/badge/Python-1f1f2e?style=flat-square&logo=python&logoColor=c084fc)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f1f2e?style=flat-square&logo=typescript&logoColor=c084fc)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f1f2e?style=flat-square&logo=javascript&logoColor=c084fc)
+![HTML5](https://img.shields.io/badge/HTML5-1f1f2e?style=flat-square&logo=html5&logoColor=c084fc)
+![CSS3](https://img.shields.io/badge/CSS3-1f1f2e?style=flat-square&logo=css3&logoColor=c084fc)
 
-![Python](https://img.shields.io/badge/Python-1f1f2e?style=for-the-badge&logo=python&logoColor=FF6BB5)
-![Java](https://img.shields.io/badge/Java-1f1f2e?style=for-the-badge&logo=openjdk&logoColor=FF6BB5)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f1f2e?style=for-the-badge&logo=javascript&logoColor=FF6BB5)
-![TypeScript](https://img.shields.io/badge/TypeScript-1f1f2e?style=for-the-badge&logo=typescript&logoColor=FF6BB5)
-![HTML5](https://img.shields.io/badge/HTML5-1f1f2e?style=for-the-badge&logo=html5&logoColor=FF6BB5)
-![CSS3](https://img.shields.io/badge/CSS3-1f1f2e?style=for-the-badge&logo=css3&logoColor=FF6BB5)
+**Frontend**
 
-**— Frameworks & Tools —**
+![React](https://img.shields.io/badge/React-1f1f2e?style=flat-square&logo=react&logoColor=c084fc)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1f1f2e?style=flat-square&logo=tailwind-css&logoColor=c084fc)
+![Vite](https://img.shields.io/badge/Vite-1f1f2e?style=flat-square&logo=vite&logoColor=c084fc)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1f1f2e?style=flat-square&logo=shadcnui&logoColor=c084fc)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-1f1f2e?style=flat-square&logo=framer&logoColor=c084fc)
 
-![Django](https://img.shields.io/badge/Django-1f1f2e?style=for-the-badge&logo=django&logoColor=FF6BB5)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1f1f2e?style=for-the-badge&logo=tailwind-css&logoColor=FF6BB5)
-![Git](https://img.shields.io/badge/Git-1f1f2e?style=for-the-badge&logo=git&logoColor=FF6BB5)
-![GitHub](https://img.shields.io/badge/GitHub-1f1f2e?style=for-the-badge&logo=github&logoColor=FF6BB5)
-![VS Code](https://img.shields.io/badge/VS_Code-1f1f2e?style=for-the-badge&logo=visual-studio-code&logoColor=FF6BB5)
-![Google AI](https://img.shields.io/badge/Google_AI-1f1f2e?style=for-the-badge&logo=google&logoColor=FF6BB5)
+**Backend & Database**
 
-**— Core Strengths —**
+![Django](https://img.shields.io/badge/Django-1f1f2e?style=flat-square&logo=django&logoColor=c084fc)
+![Supabase](https://img.shields.io/badge/Supabase-1f1f2e?style=flat-square&logo=supabase&logoColor=c084fc)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f1f2e?style=flat-square&logo=postgresql&logoColor=c084fc)
+![Node.js](https://img.shields.io/badge/Node.js-1f1f2e?style=flat-square&logo=node.js&logoColor=c084fc)
 
-![DSA](https://img.shields.io/badge/DSA_%26_Algorithms-FF6BB5?style=for-the-badge&labelColor=1f1f2e)
-![OOP](https://img.shields.io/badge/OOP_%26_Design-FF6BB5?style=for-the-badge&labelColor=1f1f2e)
-![Backend](https://img.shields.io/badge/Backend_Dev-FF6BB5?style=for-the-badge&labelColor=1f1f2e)
-![Gen AI](https://img.shields.io/badge/Generative_AI-FF6BB5?style=for-the-badge&labelColor=1f1f2e)
+**AI & Tools**
+
+![Google AI](https://img.shields.io/badge/Google_AI-1f1f2e?style=flat-square&logo=google&logoColor=c084fc)
+![Git](https://img.shields.io/badge/Git-1f1f2e?style=flat-square&logo=git&logoColor=c084fc)
+![VS Code](https://img.shields.io/badge/VS_Code-1f1f2e?style=flat-square&logo=visual-studio-code&logoColor=c084fc)
+
+<br />
+
+---
+
+## ✦ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 SkillSync AI
+**AI-powered skill assessment & learning path platform**
+
+Addresses the gap between industry skill demands and learner readiness. Users take an assessment, receive a personalized learning path, and track progress over time.
+
+`Python` `Django` `HTML` `Google AI`
+
+⭐ 5 stars · 1 fork
+
+[→ View Repository](https://github.com/khyatiagrawal-2025/SkillSync-Ai)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 NoteForge AI
+**AI-powered meeting intelligence platform**
+
+Paste meeting notes, get back structured summaries — action items, decisions, next steps. Built with React + TypeScript + Supabase, with live demo deployed.
+
+`TypeScript` `React` `Supabase` `Tailwind CSS`
+
+⭐ 3 stars · [Live Demo →](https://note-forgeai.lovable.app)
+
+[→ View Repository](https://github.com/khyatiagrawal-2025/NoteForge-Ai)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Smart Allocation System
+**Intelligent resource & volunteer coordination platform**
+
+Solves the coordination overhead in events and organizations by automating volunteer/resource allocation logic.
+
+`Python` `HTML`
+
+⭐ 4 stars
+
+[→ View Repository](https://github.com/khyatiagrawal-2025/smart-allocation-system)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎁 Glow Gift
+**Creative gifting web experience**
+
+A polished TypeScript project focused on a delightful user-facing product experience.
+
+`TypeScript` `React`
+
+⭐ 3 stars
+
+[→ View Repository](https://github.com/khyatiagrawal-2025/glow-gift)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ DSA Learning Vault
+**Data structures & algorithms practice — Java**
+
+A structured repo for consistent DSA practice. The foundation of solid problem-solving — worked on daily.
+
+`Java`
+
+⭐ 3 stars
+
+[→ View Repository](https://github.com/khyatiagrawal-2025/DSA-Learning)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Developer Portfolio
+**Personal portfolio showcase**
+
+A creative web portfolio built in TypeScript to present projects and identity as a developer.
+
+`TypeScript`
+
+[→ View Repository](https://github.com/khyatiagrawal-2025/khyatiportfolio)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+## ✦ Open Source
+
+<div>
+
+🌸 **GSSoC Contributor** — Participated in GirlScript Summer of Code as an open source contributor.
+
+🦈 **Pull Shark** — Earned GitHub's Pull Shark achievement through real merged pull requests.
+
+⚡ **Quickdraw** — Earned the Quickdraw achievement for fast issue and PR responses.
+
+🎯 **YOLO** — Merged without review, trusting the commit (and fixing it after).
 
 </div>
 
+> Open source is where I learned to write code for *other people* to read — which made everything else better too.
+
+<br />
+
 ---
 
-## 🚀 Featured Projects
+## ✦ GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/khyatiagrawal-2025/SkillSync-Ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khyatiagrawal-2025&repo=SkillSync-Ai&theme=midnight-purple&hide_border=true&bg_color=1f1f2e&title_color=FF6BB5&icon_color=FF6BB5&text_color=c9d1d9&border_radius=12" />
-</a>
-&nbsp;
-<a href="https://github.com/khyatiagrawal-2025/smart-allocation-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khyatiagrawal-2025&repo=smart-allocation-system&theme=midnight-purple&hide_border=true&bg_color=1f1f2e&title_color=FF6BB5&icon_color=FF6BB5&text_color=c9d1d9&border_radius=12" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=khyatiagrawal-2025&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9&ring_color=c084fc&count_private=true&include_all_commits=true&border_radius=12" height="165" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyatiagrawal-2025&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=c9d1d9&border_radius=12" height="165" />
 
 </div>
 
-<br/>
-
-| 🌟 Project | 💡 What it does | 🛠 Stack |
-|:--|:--|:--|
-| [🤖 SkillSync AI](https://github.com/khyatiagrawal-2025/SkillSync-Ai) | AI-powered gamified learning path generator for students | Django · Python · Google AI |
-| [🌟 Smart Allocation](https://github.com/khyatiagrawal-2025/smart-allocation-system) | Intelligent resource & volunteer coordination platform | Python · HTML |
-| [📊 DSA Learning](https://github.com/khyatiagrawal-2025/DSA-Learning) | Data structures & algorithm practice vault | Java |
-| [🎓 Student Management](https://github.com/khyatiagrawal-2025/Student-Management-System) | Full-featured student management system | Python |
-| [🌐 Portfolio](https://github.com/khyatiagrawal-2025/khyatiportfolio) | Creative personal portfolio showcase | TypeScript |
-| [🌸 Smart Code Bloom](https://github.com/khyatiagrawal-2025/smart-code-bloom) | Developer learning & experimentation hub | TypeScript |
-| [🧪 Zentrax Labs](https://github.com/khyatiagrawal-2025/zentraxlabs) | Tech experimentation platform | TypeScript |
-| [🐍 Python Programming](https://github.com/khyatiagrawal-2025/Python-programming) | Python concepts & mini-projects | Python |
-| [🎨 Holi Special](https://github.com/khyatiagrawal-2025/holi-special) | Creative festival web experience | TypeScript |
-| [🍫 Sweet Surprises](https://github.com/khyatiagrawal-2025/sweetsurprises) | Special surprise web app | TypeScript |
-
----
-
-## 📊 GitHub Analytics
+<br />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khyatiagrawal-2025&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1f1f2e&title_color=FF6BB5&icon_color=FF6BB5&text_color=c9d1d9&ring_color=FF6BB5&count_private=true&include_all_commits=true&border_radius=12" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyatiagrawal-2025&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1f1f2e&title_color=FF6BB5&text_color=c9d1d9&border_radius=12" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khyatiagrawal-2025&theme=midnight-purple&hide_border=true&background=1f1f2e&ring=FF6BB5&fire=FF6BB5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6BB5&sideLabels=FF6BB5&dates=8b949e&border_radius=12" width="500"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khyatiagrawal-2025&bg_color=1f1f2e&color=FF6BB5&line=FF6BB5&point=ffffff&area_color=FF6BB5&area=true&hide_border=true&radius=12" width="96%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khyatiagrawal-2025&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=c084fc&dates=8b949e&border_radius=12" />
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<br />
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=khyatiagrawal-2025&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khyatiagrawal-2025&bg_color=0d0d1a&color=c084fc&line=c084fc&point=ffffff&area=true&hide_border=true&radius=12" />
 
 </div>
 
+<br />
+
 ---
 
-## 💫 Right Now I'm...
+## ✦ Currently Learning
 
 ```
- 🧮  Deep-diving into DSA with Java         →  Algorithms every day
- 🤖  Building AI projects with Google APIs  →  Making magic happen
- 💻  Mastering Backend & System Design      →  Architecture mode on
- 🎨  Mixing creativity with clean code      →  Art meets logic
- 📚  Exploring new frameworks & tools       →  Forever a student
- 🌟  Building my dev identity, one commit at a time ✨
+⬡  Advanced DSA patterns        →   Java, daily
+⬡  System Design fundamentals   →   Scalability thinking
+⬡  Generative AI integration     →   Google AI APIs in real projects
+⬡  Backend architecture          →   Django + Supabase patterns
+⬡  TypeScript at depth           →   Type-safe React applications
 ```
 
----
-
-## 💬 Words I Live By
-
-<div align="center">
-
-> *"Consistency is beauty, every bug is a lesson, and every project is a love story with code."*
->
-> **— Khyati Agrawal 💖**
-
-<br/>
-
-> *"She believed she could, so she coded."* 💪
-
-</div>
+<br />
 
 ---
 
-## 🌸 Let's Connect
+## ✦ Philosophy
 
-<div align="center">
+> *"Consistency is beauty. Every bug is a lesson. Every project is a commitment to something better than yesterday."*
 
-[![GitHub](https://img.shields.io/badge/GitHub-1f1f2e?style=for-the-badge&logo=github&logoColor=FF6BB5)](https://github.com/khyatiagrawal-2025)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f1f2e?style=for-the-badge&logo=linkedin&logoColor=FF6BB5)](https://linkedin.com/in/khyati-agrawal)
-[![Gmail](https://img.shields.io/badge/Gmail-1f1f2e?style=for-the-badge&logo=gmail&logoColor=FF6BB5)](mailto:khyatiagrawal9494@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-1f1f2e?style=for-the-badge&logo=youtube&logoColor=FF6BB5)](https://youtube.com/@khyati)
-[![Twitter](https://img.shields.io/badge/Twitter-1f1f2e?style=for-the-badge&logo=x&logoColor=FF6BB5)](https://twitter.com/khyati)
+I write code that's meant to be read, maintained, and built upon — not just to run once and be forgotten.
 
-<br/>
-
-*Always open to collaborations, conversations, and building cool things together.* 🤝
-
-</div>
+<br />
 
 ---
 
+## ✦ Connect
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Code%20with%20love.%20Grow%20every%20day.%20%F0%9F%92%96&fontSize=16&fontColor=fff&fontAlignY=65&animation=twinkling" width="100%"/>
+<a href="https://github.com/khyatiagrawal-2025">
+  <img src="https://img.shields.io/badge/GitHub-khyatiagrawal--2025-c084fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/khyati-agrawal-1840ba377/">
+  <img src="https://img.shields.io/badge/LinkedIn-Khyati_Agrawal-c084fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a" />
+</a>
+&nbsp;
+<a href="https://x.com/itzz_khyatiag">
+  <img src="https://img.shields.io/badge/X-@itzz__khyatiag-c084fc?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d1a" />
+</a>
 
 </div>
+
+<br />
+
+<div align="center">
+  <sub>Open to internship opportunities, open source collaborations, and interesting conversations. Let's build something.</sub>
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=100&section=footer&animation=twinkling" />
+
+</div>
+
